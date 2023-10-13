@@ -8,11 +8,13 @@ Based off of the nvim config used by thePrimeagen: https://www.youtube.com/watch
 - [Usage](#usage)
 - [Packages](#packages)
 
-##  Installation
+## Installation
 - do 1
 - do 2
 
-##Usage
+## Usage
+use it.
 
-##Packages
+## Packages
 - https://github.com/rebelot/kanagawa.nvim (colorscheme)
+- https://github.com/nvim-treesitter/nvim-treesitter/wiki/Windows-support (treesitter)
