@@ -8,7 +8,7 @@ Based off of the nvim config used by thePrimeagen: https://www.youtube.com/watch
 - [Usage](#usage)
 - [Packages](#packages)
 
-##Installation
+##  Installation
 - do 1
 - do 2
 
