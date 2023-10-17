@@ -23,6 +23,6 @@ use it.
 
 ## Relevant-Keybinds
 General nvim && netrw traversal:
-- <leader-pv> -> exit current nvim file & return to netrw terminal
-- :qall       -> exits the nvim and doesn't produce the .swp recovery file error; best pracctice to use while exiting.
+- '<leader-pv>' -> exit current nvim file & return to netrw terminal
+- ':qall'       -> exits the nvim and doesn't produce the .swp recovery file error; best pracctice to use while exiting.
 - 
