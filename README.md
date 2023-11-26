@@ -11,11 +11,14 @@ Based off of the nvim config used by thePrimeagen: https://www.youtube.com/watch
 - [Relevant-Keybinds](#keybinds)
 
 ## Installation
-- do 1
-- do 2
+- using debian/ubuntu:
+  - install git, nvim packages
+  - navigate to ~/.config
+  - use the git clone ... to clone the repo
+  - rename the folder to 
 
 ## Usage
-use it.
+Used to decrease ricing required to customize the nvim tool
 
 ## Packages
 - https://github.com/rebelot/kanagawa.nvim (colorscheme)
