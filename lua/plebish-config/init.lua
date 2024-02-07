@@ -1,2 +1,0 @@
-require("plebish-config.remap")
-
